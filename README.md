@@ -2,7 +2,7 @@ Hi 👋 My name is Bahadır Önal
 =============================
 
 * ✉️  You can contact me at [bahadironal3@gmail.com](mailto:bahadironal3@gmail.com)
-* 🧠  I'm learning Codeigniter
+* 🧠  I'm learning Laravel
 
 ### Skills
 
